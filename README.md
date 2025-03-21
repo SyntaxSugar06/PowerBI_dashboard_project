@@ -18,15 +18,12 @@ The Healthcare Leads Flow Dashboard aims to provide actionable insights to enhan
 - 📋 Diagnosis-wise Patient Count
 - 👨‍⚕️ Feedback Volume per Doctor
 - ⏳ Average Length of Stay
+
   
-
-- Dashboard Interaction <a href="https://github.com/SyntaxSugar06/PowerBI_dashboard_project/blob/main/Screenshot%202025-03-21%20161554.png">View Dashboard</a>
-
 ## Dashboard
 
-![Screenshot 2025-03-07 201341](https://github.com/user-attachments/assets/cd72cbaa-c31d-4576-ac86-04846b5d246d)
+- <a href="https://github.com/SyntaxSugar06/PowerBI_dashboard_project/blob/main/Screenshot%202025-03-21%20161554.png">View Dashboard</a>
+
 
 ## Insights from the Dashboard
-- Peak call hours lead to higher abandonment rates, indicating a need for better staffing.
-- Top-performing agents have a low AHT and high first-call resolution rates.
-- Customer satisfaction decreases when call wait times exceed 30 seconds.
+
