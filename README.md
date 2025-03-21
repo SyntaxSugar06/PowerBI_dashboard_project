@@ -3,11 +3,12 @@
 ## Project Objective:
 The Healthcare Leads Flow Dashboard aims to provide actionable insights to enhance hospital management and improve patient care outcomes. By analyzing key healthcare metrics such as bed occupancy, doctor feedback, and diagnosis trends, this dashboard enables decision-makers to:
 
-✅ Identify trends in patient admissions and discharges.
-✅ Track the efficiency of hospital resource utilization.
-✅ Analyze doctor performance based on patient feedback.
-✅ Understand common diagnosis patterns to allocate resources effectively.
-✅ Compare Health Insurance Amount vs. Billing Amount for financial insights.
+- Identify trends in patient admissions and discharges.
+- Track the efficiency of hospital resource utilization.
+- Analyze doctor performance based on patient feedback.
+- Understand common diagnosis patterns to allocate resources effectively.
+- Compare Health Insurance Amount vs. Billing Amount for financial insights.
+
 ## Dataset Used
 - <a href="https://github.com/SyntaxSugar06/Data-Analysis-Dashboard/blob/main/01%20Call-Center-Dataset.xlsx">Dataset</a>
 ## Questions (KPIs)
