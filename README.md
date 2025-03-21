@@ -27,7 +27,7 @@ The Healthcare Leads Flow Dashboard aims to provide actionable insights to enhan
 
 ## Insights from the Dashboard
 
-- Private rooms have the highest occupancy, while ICU has the least.- 
+- Private rooms have the highest occupancy, while ICU has the least. 
 - Viral infections are the most common diagnosis, followed by flu and malaria.
 - CT Scan and MRI contribute significantly to the billing amount.
 - All doctors received an equal volume of feedback, indicating consistent patient interaction.
