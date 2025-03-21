@@ -13,11 +13,11 @@ The Healthcare Leads Flow Dashboard aims to provide actionable insights to enhan
 - <a href="https://github.com/SyntaxSugar06/PowerBI_dashboard_project/blob/main/Papollo-Healtcare-Dataset.xlsx">Dataset</a>
 
 ## Questions (KPIs)
-- Overall customer satisfaction
-- Overall calls answered/abandoned
-- Calls by time
-- Average speed of answer
-- Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+- 🏥 Bed Occupancy
+- 💰 Billing Amount
+- 📋 Diagnosis-wise Patient Count
+- 👨‍⚕️ Feedback Volume per Doctor
+- ⏳ Average Length of Stay
 
 - Dashboard Interaction <a href="https://github.com/SyntaxSugar06/Data-Analysis-Dashboard/blob/main/Screenshot%202025-03-07%20201341.png">View Dashboard</a>
 
