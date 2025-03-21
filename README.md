@@ -1,7 +1,13 @@
 # Healthcare-Leads-Flow-Dashboard
 
 ## Project Objective:
-The objective of this project is to analyze and visualize call center trends using Power BI, helping the Call Center Manager at PhoneNow gain transparency into key performance indicators (KPIs). The dashboard provides insights into call volumes, agent performance, customer satisfaction, and response efficiency, enabling data-driven decision-making to improve customer service and operational efficiency.
+The Healthcare Leads Flow Dashboard aims to provide actionable insights to enhance hospital management and improve patient care outcomes. By analyzing key healthcare metrics such as bed occupancy, doctor feedback, and diagnosis trends, this dashboard enables decision-makers to:
+
+✅ Identify trends in patient admissions and discharges.
+✅ Track the efficiency of hospital resource utilization.
+✅ Analyze doctor performance based on patient feedback.
+✅ Understand common diagnosis patterns to allocate resources effectively.
+✅ Compare Health Insurance Amount vs. Billing Amount for financial insights.
 ## Dataset Used
 - <a href="https://github.com/SyntaxSugar06/Data-Analysis-Dashboard/blob/main/01%20Call-Center-Dataset.xlsx">Dataset</a>
 ## Questions (KPIs)
