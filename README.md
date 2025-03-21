@@ -18,8 +18,9 @@ The Healthcare Leads Flow Dashboard aims to provide actionable insights to enhan
 - 📋 Diagnosis-wise Patient Count
 - 👨‍⚕️ Feedback Volume per Doctor
 - ⏳ Average Length of Stay
+  
 
-- Dashboard Interaction <a href="https://github.com/SyntaxSugar06/Data-Analysis-Dashboard/blob/main/Screenshot%202025-03-07%20201341.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/SyntaxSugar06/PowerBI_dashboard_project/blob/main/Screenshot%202025-03-21%20161554.png">View Dashboard</a>
 
 ## Dashboard
 
